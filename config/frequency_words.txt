@@ -1,22 +1,11 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙智行
-HarmonyOS
-任正非
-
 比亚迪
 王传福
 
 赛力斯
 问界
-吉利
-奇瑞
-宁德时代
-
-大疆
-DJI
 
 宇树
 王兴兴
@@ -28,15 +17,6 @@ DJI
 
 特斯拉
 马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 gemini
 deepmind
@@ -54,8 +34,4 @@ ai
 
 自动驾驶
 
-机器人
-
 科技
-
-核能
